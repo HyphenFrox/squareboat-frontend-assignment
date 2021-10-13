@@ -8,6 +8,10 @@
 # testing
 /coverage
 
+# API files
+squareBoatAPI.json
+squareBoatAPIAuth.json
+
 # production
 /build
 
